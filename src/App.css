@@ -1,0 +1,8 @@
+/* Make the Cesium viewer fill the screen */
+#root {
+  height: 100%;
+}
+
+/* Remove demo styles */
+
+/* Empty on purpose */
